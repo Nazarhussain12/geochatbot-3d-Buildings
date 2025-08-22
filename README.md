@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 3D Building Data Management System
 
 A Node.js application for managing and visualizing 3D building data using PostGIS, with a chatbot interface for querying building information and an interactive map.
@@ -239,6 +238,3 @@ For issues or questions:
 2. Verify PostGIS extension is enabled
 3. Ensure all dependencies are installed
 4. Check the console for error messages
-=======
-# geochatbot-3d-Buildings
->>>>>>> 555ef20642b529a0a358ea0398270b617a1e1375
